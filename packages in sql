@@ -1,4 +1,8 @@
-   
+/*Creation of Packages
+a. Create a package which contains:
+i. A procedure to hire a new employee.
+ii. A function to increase the commission of the employee.
+*/
 
 
    CREATE PACKAGE  H_pack AS
